@@ -7,5 +7,5 @@ Olá! Você está em um processo de escrita de algum texto acadêmico? Os olhos 
 
 Também faço esse tipo de serviço com textos em inglês. Evite que seu currículo tenha um erro ou que os tradutores automáticos coloquem você em maus lençóis.
 
-Com mais de 30 anos de experiência na área, um serviço personalizado e atencioso, eu vou ajudar você a fazer do seu texto o melhor possível! (sem vírgula)
+Com mais de 30 anos de experiência na área e um serviço personalizado e atencioso eu vou ajudar você a fazer do seu texto o melhor possível!
 

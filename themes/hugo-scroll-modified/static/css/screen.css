@@ -172,6 +172,32 @@ h6 {
   font-size: 2rem;
 }
 
+.forminput {
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+  margin: 5px;
+  width: 50%;
+  height: 20%;
+}
+
+button.btn {
+  text-decoration: none;
+  background-color: #E1C64F;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  color: white;
+  letter-spacing: 1px;
+  margin: 0;
+  overflow: visible;
+  padding: 10px 20px 10px 20px;
+  position: relative;
+  margin-top: 2rem;
+  cursor: pointer;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
 a {
   color: inherit;
   transition: all ease 0.3s;

@@ -4,7 +4,26 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[veraportella@gmail.com](mailto:your-email@your-domain.com)
+{{< raw >}}
+<div style="width: 1000px">
+<form
+  action="https://formspree.io/f/mgerovon"
+  method="POST"
+>
+  <div>
+    <label>Seu email:</label>
+  </div>
+  <div>
+    <input type="email" class="forminput"  name="_replyto">
+  </div>
+  <div>
+    <label>Em que posso ajudar?</label>
+  </div>
+  <div>
+    <textarea name="message" class="forminput"></textarea>
+  <div>
 
-
-Vamos conversar!
+  <button type="submit" class="btn">Send</button>
+</form>
+</div>
+{{< /raw >}}
