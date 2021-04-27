@@ -684,8 +684,9 @@ a.fn-item.active {
 /* Keep large images within the bounds of the post-width */
 .post-content img {
   display: block;
-  max-width: 100%;
+  max-width: 70%;
   margin: 0 auto;
+  border-radius: 50%;
 }
 
 /* The author credit area after the post */
