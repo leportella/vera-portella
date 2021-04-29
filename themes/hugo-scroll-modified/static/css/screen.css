@@ -177,6 +177,7 @@ h6 {
   border-radius: 6px;
   margin: 5px;
   width: 50%;
+  max-width: 300px;
   height: 20%;
 }
 
@@ -710,7 +711,7 @@ a.fn-item.active {
 /* Keep large images within the bounds of the post-width */
 .post-content img {
   display: block;
-  max-width: 70%;
+  max-width: 50%;
   margin: 0 auto;
   border-radius: 50%;
 }
