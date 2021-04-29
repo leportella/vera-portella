@@ -6,12 +6,11 @@ Aqui estão alguns dos trabalhos em que pude ajudar durante a minha carreira na 
 
 ### Tradução/versão e/ou revisão de Abstracts e Resumos
 
-- Characterization of the use of medicines taken by a group of elderly in the municipality of Londrina, State of Paraná, Brazil.
-- Study on the connection of adoption and psychological risk in the perspective of Analysis of Behavior: implications in the psychological clinical assistance.
+- Study on the connection of adoption and psychological risk in the perspective of analysis of behavior: implications in the psychological clinical assistance.
 - Breastfeeding of premature newborns in the medical school-hospital of Londrina-PR
 - Perfil de utilização de medicamentos em um grupo de idosos no município de Londrina-PR
 - Influence of genotype on protein and oil concentration of soybean seeds
-- Electronic  Commerce: advantages and disadvantages of the acquisition process
+- Electronic Commerce: advantages and disadvantages of the acquisition process
 - Analysis of the care provided by a Family Health Unit
 - Qualidade da assistência de enfermagem: o processo de avaliação em hospital universitário público
 
@@ -21,16 +20,16 @@ Aqui estão alguns dos trabalhos em que pude ajudar durante a minha carreira na 
 - Angústia, a impossibilidade do ser
 - Análise de acolhimento em uma Unidade de Saúde da Família
 - Transtorno bipolar infantil e/ou adolescente (TBIA): Prevalência e critérios para diagnóstico
-- A boa-fé  e a dignidade da pessoa humana no Código Civil
+- A boa-fé e a dignidade da pessoa humana no código civil
 
 ### Revisão de artigos, livros e outros
 
-- Ensino itinerante para deficientes visuais: um estudo exploratório
+- Ensino itinerante para deficientes visuais: um estudo exploratório, Revista Brasileira de Educação Especial, 2008
 - A boa-fé e a dignidade da pessoa humana no código civil
 - The Transition of Kangaroo Care into Public Policy in Brazil
 - Articles of Incorporation – Fundação de Apoio à Pesquisa e ao Desenvolvimento do Agronegócio – FAPEAGRO
-- Program  of XXI Brazilian Congresso f Maize and Sorghum
-- Guias ABRASEL-Associação Brasileira de Bares e Restaurantes – Roteiros gastronômicos e turísticos – diversas edições
-Poderosas Palavras -  36 ferramentas para novos redatores - livro
+- Program of XXI Brazilian Congresso of Maize and Sorghum
+- Guias ABRASEL-Associação Brasileira de Bares e Restaurantes – Roteiros gastronômicos e turísticos, 2013-2014-2015-2016
+- Palavras Poderosas: 36 ferramentas para novos redatores, Vitor de Gouvêa, 2013
 
 
