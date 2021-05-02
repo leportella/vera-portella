@@ -31,6 +31,6 @@ Se os prazos acima não funcionarem pra você, podemos combinar um prazo mais cu
 
 ### Outros
 
-Revisão de livros e outros trabalho de grande porte deverão ser acordados por tarefa
+Revisão de livros e outros trabalhos de grande porte deverão ser acordados por tarefa
 
 Se você faz parte de uma ONG, de uma pequena fundação de apoio social ou é uma pessoa desempregada, entre contato comigo e darei um jeito de ajudá-lo(a)! 
