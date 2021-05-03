@@ -1,4 +1,4 @@
-baseURL = "https://veportella.netlify.app/"
+baseURL = "https://veraportella.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
