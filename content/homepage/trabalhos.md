@@ -30,6 +30,6 @@ Aqui estão alguns dos trabalhos em que pude ajudar durante a minha carreira na 
 - Articles of Incorporation – Fundação de Apoio à Pesquisa e ao Desenvolvimento do Agronegócio – FAPEAGRO
 - Program of XXI Brazilian Congresso of Maize and Sorghum
 - Guias ABRASEL-Associação Brasileira de Bares e Restaurantes – Roteiros gastronômicos e turísticos, 2013-2014-2015-2016
-- Palavras Poderosas: 36 ferramentas para novos redatores, Vitor de Gouvêa, 2013
+- Palavras Poderosas: 36 ferramentas para novos redatores, Vitor B. Gouvêa, 2013
 
 
