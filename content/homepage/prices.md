@@ -13,13 +13,15 @@ Prazo: 15 dias
 
 Valor: R$ 4,50 a lauda (1250 caracteres)
 
-### Versões de abstract 
+Valor mínimo: 3 laudas
 
-Limitações: 300 palavras
+### Versões de abstract 
 
 Prazo: 4 dias
 
 Valor: R$ 60,00
+
+Tamanho máximo: 300 palavras
 
 ### Revisões na língua inglesa
 
